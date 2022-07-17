@@ -1,0 +1,389 @@
+.genel{
+    height: 1000px;
+    width: 2000px;
+    background-color: rgb(0, 140, 255);
+}
+.form{
+    position: absolute;
+    top: 200px;
+    left: 450px;
+    background-color:  rgb(225,155,28);
+    box-shadow: 3px 3px rgba(255, 196, 0, 0.397);
+    border-style: solid;
+    height: 300px;
+    width: 500px;
+}
+.login-input{
+    position: absolute;
+    left: 20px;
+    font-size: 20px;
+}
+.login-input2{
+    font-size: 20px;
+    position: absolute;
+    left: 20px;
+    top: 125px;
+}
+.login-button{
+    position: absolute;
+    font-size: 20px;
+    top: 170px;
+    left: 20px;
+}
+.fa-couch{
+    font-size: 70px;
+    color: cornsilk;
+    position: absolute;
+    left: 160px;
+}
+.basliik{
+    font-size: 50px;
+    color: cornsilk;
+    position: absolute;
+    left: 320px;
+}
+.solbar{
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    height: 1400px;
+    width: 100px;
+    background-color: rgb(255, 153, 0);
+}
+.at{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+}
+.fa-hotel{
+    font-size: 37px;
+    padding-left: 13px;
+    color: cornsilk;
+}
+.yen{
+    position: absolute;
+    top: 350px;
+    left: 20px;
+}
+.fa-globe-europe{
+    font-size: 37px;
+    padding-left: 15px;
+    color: cornsilk;
+}
+.soba{
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    height: 40px;
+    width: 1450px;
+    background-color: rgb(255, 166, 0);
+}
+.yazi1{
+    display: flex;
+    padding-top: 5px;
+    padding-left: 50px;
+    font-size: 20px;
+}
+.yazi1 a{
+    margin-left: 40px;
+}
+.solbar3{
+    position: absolute;
+    top: 75px;
+    left: 0px;
+    height: 1200px;
+    width: 100px;
+    background-color: rgb(255, 153, 0);
+}
+.fa-sign-out-alt{
+    color: cornsilk;
+}
+.at3{
+    position: absolute;
+    top: 150px;
+    left: 20px;
+}
+.fa-hotel{
+    font-size: 37px;
+    padding-left: 13px;
+    color: cornsilk;
+}
+.yen3{
+    position: absolute;
+    top: 350px;
+    left: 20px;
+}
+.fa-globe-europe{
+    font-size: 37px;
+    padding-left: 15px;
+    color: cornsilk;
+}
+.soba3{
+    position: absolute;
+    top: 75px;
+    left: 100px;
+    height: 1200px;
+    width: 180px;
+    background-color: rgb(255, 166, 0);
+}
+.yazi3{
+    position: absolute;
+    top: 100px;
+    left: 15px;
+    font-size: 20px;
+}
+
+.ustbar{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 75px;
+    width: 100%;
+    background-color: rgb(0, 140, 255);
+}
+.cik{
+    position: absolute;
+    top: 20px;
+    left: 1200px;
+    font-size: 25px;
+}
+.ad{
+    height: 300px;
+    width: 300px;
+}
+#pie{
+    position: absolute;
+    left: 70px;
+    top: 150px;
+    width: 290px;
+    height: 290px;
+}
+
+#pied{
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    width: 300px;
+    height: 300px;
+}
+#pier{
+    position: absolute;
+    left: 500px;
+    top: 150px;
+    width: 290px;
+    height: 290px;
+}
+
+#piez{
+    position: absolute;
+    left: 900px;
+    top: 150px;
+    width: 290px;
+    height: 290px;
+}
+
+.urdag{
+    position: absolute;
+    left: 150px;
+    top: 600px;
+    height: 600px;
+    width: 1000px;
+}
+
+.fener{
+    position: absolute;
+    left: 700px;
+    top: 1050px;
+    height: 650px;
+    width: 670px;
+}
+
+.pkar{
+    position: absolute;
+    left: 150px;
+    top: 1050px;
+    width: 270px;
+    height: 270px;
+}
+.scg{
+    position: absolute;
+    left: 900px;
+    top: 500px;
+    height: 70px;
+    width: 370px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+
+.scgg{
+    font-size: 25px;
+}
+#charti{
+    position: absolute;
+    left: 840px;
+    top:150px;
+    height: 320px;
+    width: 450px;
+}
+
+#chartudesu{
+    position: absolute;
+    left: 300px;
+    top: 840px;
+    height: 400px;
+    width: 1100px;
+}
+.an{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+    width: 550px;
+    height: 550px;
+}
+
+.aylik{
+    position: absolute;
+    top: 790px;
+    left: 200px;
+    width: 1000px;
+    height: 600px;
+}
+.top{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+    position:absolute;
+    left: 1000px;
+    top: 570px;
+}
+.falan{
+    padding-top: 4px;
+    padding-left: 17px;
+    font-size: 25px;
+}
+.ort{
+    width: 300px;
+    height: 80px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+    position:absolute;
+    left: 1000px;
+    top: 630px;
+}
+.ortyaz{
+    padding-top: 4px;
+    padding-left: 17px;
+    font-size: 25px;
+}
+
+.adıneolaki{
+    position: absolute;
+    top: 140px;
+    left: 200px;
+}
+
+.adıolanolana{
+    position: absolute;
+    top: 300px;
+    left: 190px;
+}
+
+.adınınadı{
+    position: absolute;
+    top: 300px;
+    left: 560px;
+}
+
+.adınınadamı{
+    position: absolute;
+    top: 300px;
+    left: 900px;
+}
+
+.but{
+    position: absolute;
+    top: 550px;
+    left: 1200px;
+}
+.sonuc{
+    position: absolute;
+    top:200px;
+    left:200px;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+
+.sonuv{
+    position: absolute;
+    top:200px;
+    left:450px;
+    width: 200px;
+    height: 150px;
+    background-color:rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+.sonub{
+    position: absolute;
+    top:200px;
+    left:700px;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+.sonux{
+    position: absolute;
+    top:450px;
+    left:700px;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+.fal{
+    padding-top: 25px;
+    padding-left: 5px;
+    font-size: 25px;
+}
+.sonua{
+    position: absolute;
+    top: 450px;
+    left: 450px;
+    height: 150px;
+    width: 200px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+
+.sonlamak{
+    position: absolute;
+    top: 200px;
+    left: 940px;
+    width: 400px;
+    height: 200px;
+    font-size: 15px;
+}
+.butluk{
+    position: absolute;
+    top: 450px;
+    left:  940px;
+    width: 200px;
+    height: 100px;
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 5px;
+    background-color:  rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
+.sonuz{
+    position: absolute;
+    top:450px;
+    left:200px;
+    width: 200px;
+    height: 150px;
+    background-color: rgb(255, 174, 0);
+    box-shadow: 3px 3px rgb(225,155,28);
+}
